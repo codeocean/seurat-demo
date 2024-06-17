@@ -1,0 +1,15 @@
+mamba 
+r-irkernel
+r-rcpp
+r-seurat
+
+R CRAN
+BiocManager
+markdown
+
+R GitHub
+immunogenomics/presto
+
+Bioconductor 
+BiocVersion
+limma
