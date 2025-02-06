@@ -18,6 +18,8 @@ r-markdown=1.13
 
 r-rcpp=1.0.14
 
+r-seurat=5.1.0
+
 To the **R(GitHub)** package manager, add:
 
 immunogenomics/presto
